@@ -2,3 +2,6 @@
 title: Example for GitHub pages
 ---
 
+```{r}
+head(mtcars)
+```
